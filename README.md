@@ -27,7 +27,7 @@ pip install numpy pandas faiss-cpu sentence-transformers scikit-learn
 
 ### **2️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/movie-sentiment-analysis.git
+git clone https://github.com/sahilrangra/movie-sentiment-analysis.git
 cd movie-sentiment-analysis
 ```
 
